@@ -1,0 +1,2 @@
+# DigiNotes
+Instead of using paper based sticky notes, I have made an small portable device that can be used to make sure all our important messages are stored digitally. I have used NodeMcu as my controller and a small OLED screen that is used to display the message.  As it is connected to internet, important updates can be done from anywhere and at anytime with the help of a dedicated mobile app. 
